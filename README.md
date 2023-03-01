@@ -1,21 +1,3 @@
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
-
-<!--
-This README is a slimmed down version of the original one.
-Removed sections:
-- Screenshots
-- Running Test
-- Deployment
-- FAQ
--->
-
 <div align="center">
 
   <h1>Resume3.xyz</h1>
@@ -60,13 +42,14 @@ Removed sections:
 
 <br />
 
-<!-- About the Project -->
-## :star2: About the Project
 
 <div align="center"> 
   <img src="public/logo.png" alt="screenshot" />
 </div>
+<!-- About the Project -->
 
+## :star2: About the Project
+Web3 is changing everything, so why would you want an outdated .pdf or word doc emailed to you only for you to leave in a pile on your desk? Wouldn't you want a quick and easy way to review an applicants skillset on chain, instantly.
 
 <!-- Features -->
 ### :dart: Features
@@ -147,7 +130,7 @@ Distributed under the MIT License. See LICENSE for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@zkjet](https://twitter.com/zkjet) - zkjet@mailfence.com
+[@zkjet](https://twitter.com/zkjet) - zkjet@mailfence.com
 
 Project Link: [https://github.com/zkjet/resume.xyz](https://github.com/zkjet/resume.xyz)
 
